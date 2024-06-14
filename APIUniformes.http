@@ -1,0 +1,6 @@
+@APIUniformes_HostAddress = http://localhost:5182
+
+GET {{APIUniformes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
